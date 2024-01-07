@@ -1,0 +1,6 @@
+db-sqlite3
+seaborn
+pandas
+matplotlib
+imblearn
+scikit-learn==1.3.2
